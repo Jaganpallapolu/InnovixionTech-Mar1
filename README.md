@@ -1,1 +1,1 @@
-This is the basic webscraping example using python
+This is the basic web scraping example using python
